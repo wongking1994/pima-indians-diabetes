@@ -14,6 +14,7 @@ details.
 	   ```
 	 $  wget http://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.data
 	   ```
+	   
    ii. Download metadata to get an understanding of the structure of the data.
 	   ```
 	 $  wget http://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.names
