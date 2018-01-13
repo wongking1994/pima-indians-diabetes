@@ -9,6 +9,7 @@ details.
 ## Steps involved:
 
 1. Download the datesets and meta data.
+
    i. Download dataset.
 	   ```
 	 $  wget http://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.data
